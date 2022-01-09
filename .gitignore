@@ -1,0 +1,6 @@
+*.idea
+*.exe
+Venv/
+chromedrive
+__pycache__/
+resources.yml
